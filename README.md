@@ -8,8 +8,11 @@ This is a simple calculator application built using HTML, CSS, and JavaScript. T
 - Subtraction
 - Multiplication
 - Division
-- Clear/reset functionality
-
+- Clear/Undo functionality
+- Square and Cube
+- Square root
+- Percentage
+  
 ## Files Overview
 
 ### `index.html`
@@ -39,7 +42,7 @@ Handles the functionality and logic of the calculator, including button interact
 ## Future Enhancements
 
 - Add a dark/light mode toggle.
-- Include more advanced operations like square root, percentage, and trigonometric functions.
+- Include more advanced operations like trigonometric functions.
 - Improve the UI design for better user experience.
 
 ## Contributing
